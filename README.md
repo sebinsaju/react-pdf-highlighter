@@ -16,14 +16,14 @@ A simple and powerful React application that allows users to **highlight PDF tex
 
 ## 🖼 Demo
 
-> Live demo coming soon... (Optional: add Vercel/Netlify link)
+> Live demo https://react-pdf-highlight-backlinking.netlify.app/
 
 ---
 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/react-pdf-highlighter-app.git
+git clone https://github.com/sebinsaju/react-pdf-highlighter.git
 cd react-pdf-highlighter-app
 npm install
 npm start
